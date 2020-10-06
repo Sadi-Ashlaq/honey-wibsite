@@ -1,0 +1,115 @@
+body {
+	margin: 0px;
+	background-color: #ececec;
+}
+#login-bar {
+	height:50px;
+	background-color: #f6f2f2;
+	color: #949292;
+}
+#login-bar a {
+	color: #949292;
+	text-decoration: none;
+	}
+#login-bar a{
+	float: right;
+	margin: 0px 20px;
+}
+#login-bar-items{
+	float:right;
+}
+nav{
+	float: right;
+	clear: both;
+	padding: 0px 10px;
+	word-spacing: 15px;
+	font-size: 20px;
+	margin: 0px 30px;
+	display: inline-block;
+	color: #949292;
+}
+nav a{
+	text-decoration: none;
+	color: #949292;
+}
+
+.row{
+	display: inline;
+}
+.column{
+	display: inline;
+}
+h1{
+	display: inline;
+}
+p{
+	display: inline;
+}
+#text{
+	text-align: center;
+}
+span{
+	color: silver;
+}
+.a{
+	clear: both;
+	width: 340px;
+	margin: 0px 15px 40px 15px;
+	display: inline-block;
+	text-align: center;
+	text-align: justify;
+
+}
+.a h3{
+	font-weight: bold;
+	margin: 0px 0px 0px 30px;
+}
+h6{
+	margin: 0;
+	display: inline-block; 
+}
+#link{
+	background-color: #f6f2f2;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+}
+
+
+#link img{
+	float: left;
+	display: inline-block;
+	clear: both;
+	margin: -10px 0px 0px 30px;
+}
+
+#w{
+	display: inline-block;
+	margin-top: 40px;
+}
+
+.rowb{
+	display: inline;
+}
+.columnb{
+	display: inline;
+}
+
+.b{
+	clear: both;
+	width: 340px;
+	margin: 0px 15px 40px 15px;
+	display: inline-block;
+	text-align: center;
+	text-align: justify;
+}
+footer{
+	background-color: #c2c2c2;
+}
+#foo{
+	color: #fff;
+	font-size: 16px;
+	height: 40px;
+	background-color: #757474; 
+	padding: 15px;
+}
